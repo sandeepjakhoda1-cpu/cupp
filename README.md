@@ -88,6 +88,8 @@ http://www.remote-exploit.org/articles/misc_research__amp_code/index.html
 to encourage further development of the tool.
 
 ## Original author
+jishhsiwj8sje9dje
+uhigfigfyrdhhfhubjn
 
   Muris Kurgas aka j0rgan  
   j0rgan@remote-exploit.org  
